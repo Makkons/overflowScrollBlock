@@ -1,7 +1,7 @@
 body * {
    box-sizing: border-box;
 }
-.section_descr-wrapper {
+.overflow-scroll-block {
    max-height: 0;
    overflow-y: scroll;
    -ms-overflow-style: auto;
@@ -9,20 +9,20 @@ body * {
    scrollbar-width: thin;
    border: 1px solid red;
 }
-.section_descr-wrapper::-webkit-scrollbar-thumb {
+.overflow-scroll-block::-webkit-scrollbar-thumb {
    background-color: #d2d2d2;
    border-radius: 0;
    border: 0;
    -webkit-border-radius: 0;
 }
-.section_descr-wrapper::-webkit-scrollbar-track {
+.overflow-scroll-block::-webkit-scrollbar-track {
    background-color: #f5f5f5;
    border-radius: 0;
 }
 .scrollable::-webkit-scrollbar-corner {
    background-color: #f5f5f5;
 }
-.section_descr-wrapper::-webkit-scrollbar {
+.overflow-scroll-block::-webkit-scrollbar {
    width: 5px;
    background-color: #f5f5f5;
 }
