@@ -15,17 +15,17 @@ Clone the project
 ```bash
   git clone https://github.com/Makkons/overflowScrollBlock.git
 ```
-
+Or upload zip archive into your project
 
 ## Features
 
 - Fixed scroll mouse wheel
-- Custom style scroll toolba
+- Custom style scroll toolbar
 
 
 ## FAQ
 
-#### Script not work
+#### 1. Script not work
 
 The script works by tags, does not process text without formatting
 
