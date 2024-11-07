@@ -1,7 +1,7 @@
 
 # Overflow scroll block
 
-[DEMO]([overflowScrollBlock](https://makkons.github.io/overflowScrollBlock/))
+[DEMO](https://makkons.github.io/overflowScrollBlock/)
 
 Automatic height adjustment in your overflow unit according to paragraphs.
 Limit the block by the number of offers.
